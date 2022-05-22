@@ -8,12 +8,12 @@ function ContactDetails({contact_id, support, support_desc}) {
     <>
         <Container className=' mt-5 mb-4 border border-1 bg-light shadow-sm'>
             <Row className='py-auto my-5 mx-2' key={contact_id}>
-                <Col className='h-100 my-auto' >
+                <Col className='h-100 my-auto' sm={12} lg={6} >
                   <div className='  my-auto'>
                     <h1 className='display-4 fw-bold'>{support}</h1>
                   </div>
                 </Col>
-                <Col className='h-100 my-auto text-primary' >
+                <Col className='h-100 my-auto text-primary' sm={12} lg={6} >
                   <div className=' my-auto '>
                     <h1 className='fs-4 fw-light '>
                     {support_desc}
