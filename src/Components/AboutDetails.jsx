@@ -14,19 +14,19 @@ function AboutDetails({aboutdesc, about_id, titles, aboutimage}) {
     <>
         <div className='border border-1'>
             <Container>
-                <Row key={about_id}>
-                    <Col>
-                        <div className='container-fluid py-4'>
+                <Row key={about_id} className="my-4">
+                    <Col className='d-none d-md-block'>
+                        <div className='container-fluid py-4' >
                             <img src={aboutimage} alt="" className='img-fluid' />
 
                         </div>
                         
                     </Col>
                     <Col className='my-auto'>
-                    <h3 className='display-5'>{titles}</h3>
-                    <p className='fs-5'>
-                        {aboutdesc}
-                    </p>
+                        <h3 className='display-5'>{titles}</h3>
+                        <p className='fs-5'>
+                            {aboutdesc}
+                        </p>
                     </Col>
                 </Row>
 
