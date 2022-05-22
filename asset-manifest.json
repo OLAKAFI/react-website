@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.aeb5ccd0.css",
+    "main.js": "/react-website/static/js/main.135b21ba.js",
+    "static/js/787.e403dcb9.chunk.js": "/react-website/static/js/787.e403dcb9.chunk.js",
+    "static/media/dig-marketing.png": "/react-website/static/media/dig-marketing.5f5ea7d575819f396418.png",
+    "static/media/product-design.png": "/react-website/static/media/product-design.56fd2ffad9acedd011ed.png",
+    "static/media/instructors.png": "/react-website/static/media/instructors.c2c33a96c8c15abc2a9e.png",
+    "static/media/data-analytics.png": "/react-website/static/media/data-analytics.109e8be5f4fb6d317a5e.png",
+    "static/media/project-manage.png": "/react-website/static/media/project-manage.62c82b4ed594a94e2f14.png",
+    "static/media/tech-support.png": "/react-website/static/media/tech-support.3a778f69969cca412351.png",
+    "static/media/mobile-dev.png": "/react-website/static/media/mobile-dev.6a6b928dbba58d40daab.png",
+    "static/media/social-media.png": "/react-website/static/media/social-media.b64c95cd28cc9988237d.png",
+    "static/media/sales-dev.png": "/react-website/static/media/sales-dev.b94575f04d0f8a026e12.png",
+    "static/media/bootstrap-icons.woff?": "/react-website/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/transform.png": "/react-website/static/media/transform.4903884135e9492dafd6.png",
+    "static/media/bootstrap-icons.woff2?": "/react-website/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/market.png": "/react-website/static/media/market.11f6ef00d5a084897f57.png",
+    "static/media/about-us.png": "/react-website/static/media/about-us.7f3c3268cdc2edc52ff6.png",
+    "static/media/cousera-homepage-1.png": "/react-website/static/media/cousera-homepage-1.a127debcb293cdee3c3d.png",
+    "static/media/frontend-dev.png": "/react-website/static/media/frontend-dev.991204e7ab8b448a49a4.png",
+    "index.html": "/react-website/index.html",
+    "main.aeb5ccd0.css.map": "/react-website/static/css/main.aeb5ccd0.css.map",
+    "main.135b21ba.js.map": "/react-website/static/js/main.135b21ba.js.map",
+    "787.e403dcb9.chunk.js.map": "/react-website/static/js/787.e403dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeb5ccd0.css",
+    "static/js/main.135b21ba.js"
+  ]
+}
